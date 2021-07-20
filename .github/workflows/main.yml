@@ -1,15 +1,29 @@
-name: Update this repo's README
-
+name: Blog posts on ReadMe
 on:
   schedule:
-    # Once a day at 8 AM
-    - cron: 0 0 1 * *
+    # Runs every day at 9am UTC
+    - cron: '0 4 * * *'
 
 jobs:
-  update:
+  build:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: actions/checkout@v2
+      - name: Get RSS Feed
+        uses: kohrongying/readme-the-rss@master
         with:
-          feed-url: https://medium.com/feed/@PhakornKiong
-          readme-section: feed
+          feed_url: https://medium.com/feed/@PhakornKiong
+          count: 5
+      - name: Commit file changes
+        run: |
+            git config --global user.name 'anuraj'
+            git config --global user.email 'anuraj@example.com'
+            git add .
+            git diff --quiet --cached || git commit -m "Update README" 
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

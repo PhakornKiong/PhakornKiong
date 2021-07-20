@@ -39,6 +39,11 @@ Apart from coding, I also maintain a blog - you can find my articles at [Medium]
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhakornKiong&repo=Node-EventLoop-Visualizer-Server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+### Recent Blog Post:
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
+
 <!-- links to social media icons -->
 
 <!-- icons with padding -->

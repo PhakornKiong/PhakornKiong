@@ -40,8 +40,8 @@ Apart from coding, I also maintain a blog - you can find my articles at [Medium]
 </a>
 
 ### Recent Blog Posts
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!-- links to social media icons -->
 

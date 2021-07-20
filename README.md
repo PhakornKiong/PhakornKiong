@@ -41,6 +41,9 @@ Apart from coding, I also maintain a blog - you can find my articles at [Medium]
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Cloud Skill Challenge is a Perfectly Balanced Challenge](https://medium.com/aia-sg-techblog/microsoft-cloud-skill-challenge-is-a-perfectly-balanced-challenge-da401b12786e?source=rss-d98716de5277------2)
+- [Building a Node.js Event Loop Visualizer](https://medium.com/aia-sg-techblog/building-a-node-js-event-loop-visualizer-1c6ec900ee5c?source=rss-d98716de5277------2)
+- [Understanding how Babel Works](https://medium.com/aia-sg-techblog/understanding-how-babel-works-d6ca363bce1e?source=rss-d98716de5277------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- links to social media icons -->

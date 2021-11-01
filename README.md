@@ -41,11 +41,11 @@ Apart from coding, I also maintain a blog - you can find my articles at [Medium]
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MySejahtera is a Perfectly Good App With No Exploits — Final (Dual Fix Ver )](https://medium.com/@PhakornKiong/mysejahtera-is-a-perfectly-good-app-with-no-exploits-final-dual-fix-ver-7963f3d5c16a?source=rss-d98716de5277------2)
+- [MySejahtera is a Perfectly Good App With No Exploits — Part 2](https://medium.com/@PhakornKiong/mysejahtera-is-a-perfectly-good-app-with-no-exploits-part-2-dba10a428d07?source=rss-d98716de5277------2)
+- [MySejahtera is a Perfectly Good App With No Exploits](https://medium.com/@PhakornKiong/mysejahtera-is-a-perfectly-good-app-with-no-exploits-c75c1643d2ff?source=rss-d98716de5277------2)
 - [Implementing Encryption Feature  in pdf-lib](https://medium.com/aia-sg-techblog/implementing-encryption-feature-in-pdf-lib-112091bce9af?source=rss-d98716de5277------2)
 - [Basic Structure of Portable Document Format (PDF)](https://medium.com/aia-sg-techblog/basic-structure-of-portable-document-format-pdf-79db682579c9?source=rss-d98716de5277------2)
-- [Microsoft Cloud Skill Challenge is a Perfectly Balanced Challenge](https://medium.com/aia-sg-techblog/microsoft-cloud-skill-challenge-is-a-perfectly-balanced-challenge-da401b12786e?source=rss-d98716de5277------2)
-- [Building a Node.js Event Loop Visualizer](https://medium.com/aia-sg-techblog/building-a-node-js-event-loop-visualizer-1c6ec900ee5c?source=rss-d98716de5277------2)
-- [Understanding how Babel Works](https://medium.com/aia-sg-techblog/understanding-how-babel-works-d6ca363bce1e?source=rss-d98716de5277------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- links to social media icons -->

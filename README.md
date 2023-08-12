@@ -22,23 +22,6 @@ Apart from coding, I also maintain a blog - you can find my articles at [Medium]
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CI/CD-Azure_DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/PhakornKiong/PhakornKiong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhakornKiong&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/PhakornKiong/PhakornKiong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PhakornKiong&show_icons=true&line_height=27&include_all_commits&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/PhakornKiong/ALS-Context">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhakornKiong&repo=ALS-Context&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/PhakornKiong/Node-EventLoop-Visualizer-Server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PhakornKiong&repo=Node-EventLoop-Visualizer-Server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [MySejahtera is a Perfectly Good App With No Exploits — Final (Dual Fix Ver )](https://medium.com/@PhakornKiong/mysejahtera-is-a-perfectly-good-app-with-no-exploits-final-dual-fix-ver-7963f3d5c16a?source=rss-d98716de5277------2)

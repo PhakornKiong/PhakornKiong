@@ -4,7 +4,7 @@ My name is Phakorn Kiong and I'm a FullStack Engineer. I'm from Malaysia, living
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles at [Medium](https://medium.com/@PhakornKiong)
+Apart from coding, I also maintain a blog - you can find my articles at [Hasnode](https://blog.phakorn.com/)
 
 ## 🔧 Technologies & Tools
 
